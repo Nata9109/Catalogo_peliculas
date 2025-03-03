@@ -26,7 +26,7 @@ def menu():
             catalogo.eliminar()
 
         elif opcion == "4":
-            print("¡Hasta luego!")
+            print("¡Vuelve Pronto!")
             break
 
         else:
