@@ -1,4 +1,7 @@
 import os
+import sys
+sys.dont_write_bytecode = True
+
 from pelicula import Pelicula
 
 class CatalogoPelicula:
